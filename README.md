@@ -1,1 +1,1 @@
-# T-cnico-Desenvolvimento-de-Sistemas-Senai-132
+# Tecnico-Desenvolvimento-de-Sistemas-Senai-132
