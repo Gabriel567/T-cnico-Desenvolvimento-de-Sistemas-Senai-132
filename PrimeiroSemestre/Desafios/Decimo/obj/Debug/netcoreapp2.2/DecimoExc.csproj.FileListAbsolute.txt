@@ -1,0 +1,11 @@
+C:\Users\43190829829\Desktop\C#\decimoexc\bin\Debug\netcoreapp2.2\DecimoExc.deps.json
+C:\Users\43190829829\Desktop\C#\decimoexc\bin\Debug\netcoreapp2.2\DecimoExc.runtimeconfig.json
+C:\Users\43190829829\Desktop\C#\decimoexc\bin\Debug\netcoreapp2.2\DecimoExc.runtimeconfig.dev.json
+C:\Users\43190829829\Desktop\C#\decimoexc\bin\Debug\netcoreapp2.2\DecimoExc.dll
+C:\Users\43190829829\Desktop\C#\decimoexc\bin\Debug\netcoreapp2.2\DecimoExc.pdb
+C:\Users\43190829829\Desktop\C#\decimoexc\obj\Debug\netcoreapp2.2\DecimoExc.csprojAssemblyReference.cache
+C:\Users\43190829829\Desktop\C#\decimoexc\obj\Debug\netcoreapp2.2\DecimoExc.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\Desktop\C#\decimoexc\obj\Debug\netcoreapp2.2\DecimoExc.AssemblyInfoInputs.cache
+C:\Users\43190829829\Desktop\C#\decimoexc\obj\Debug\netcoreapp2.2\DecimoExc.AssemblyInfo.cs
+C:\Users\43190829829\Desktop\C#\decimoexc\obj\Debug\netcoreapp2.2\DecimoExc.dll
+C:\Users\43190829829\Desktop\C#\decimoexc\obj\Debug\netcoreapp2.2\DecimoExc.pdb

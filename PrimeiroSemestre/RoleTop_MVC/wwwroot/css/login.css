@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: consolas;
+}
+
+nav {
+    background-color: #7D0093; 
+}
+
+#Logo {
+    width: 100px;
+    height: 80px;
+}
+
+#oculto {
+    width: 20em;
+    height: 25em;
+    margin-bottom: 1em;
+}
+
+nav {
+    margin-bottom: 3em;
+}
+
+#user, #pass {
+    font-size: 1.7em;
+}
+
+#confirm {
+    font-size: 1.4em;
+    background-color: #FFC600;
+}
+
+#mad {
+    font-size: 0.9em;
+    color: #7D0093;
+    background-color: #FFC600
+}
+
+#mad {
+    margin: 3.5em;
+}

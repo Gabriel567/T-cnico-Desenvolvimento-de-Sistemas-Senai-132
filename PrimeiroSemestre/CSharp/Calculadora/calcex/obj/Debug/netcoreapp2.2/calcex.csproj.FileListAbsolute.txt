@@ -1,0 +1,11 @@
+C:\Users\44036901818\Documents\SPRINT 3\Calculadora\calcex\obj\Debug\netcoreapp2.2\calcex.csprojAssemblyReference.cache
+C:\Users\44036901818\Documents\SPRINT 3\Calculadora\calcex\obj\Debug\netcoreapp2.2\calcex.csproj.CoreCompileInputs.cache
+C:\Users\44036901818\Documents\SPRINT 3\Calculadora\calcex\obj\Debug\netcoreapp2.2\calcex.AssemblyInfoInputs.cache
+C:\Users\44036901818\Documents\SPRINT 3\Calculadora\calcex\obj\Debug\netcoreapp2.2\calcex.AssemblyInfo.cs
+C:\Users\44036901818\Documents\SPRINT 3\Calculadora\calcex\bin\Debug\netcoreapp2.2\calcex.deps.json
+C:\Users\44036901818\Documents\SPRINT 3\Calculadora\calcex\bin\Debug\netcoreapp2.2\calcex.runtimeconfig.json
+C:\Users\44036901818\Documents\SPRINT 3\Calculadora\calcex\bin\Debug\netcoreapp2.2\calcex.runtimeconfig.dev.json
+C:\Users\44036901818\Documents\SPRINT 3\Calculadora\calcex\bin\Debug\netcoreapp2.2\calcex.dll
+C:\Users\44036901818\Documents\SPRINT 3\Calculadora\calcex\bin\Debug\netcoreapp2.2\calcex.pdb
+C:\Users\44036901818\Documents\SPRINT 3\Calculadora\calcex\obj\Debug\netcoreapp2.2\calcex.dll
+C:\Users\44036901818\Documents\SPRINT 3\Calculadora\calcex\obj\Debug\netcoreapp2.2\calcex.pdb

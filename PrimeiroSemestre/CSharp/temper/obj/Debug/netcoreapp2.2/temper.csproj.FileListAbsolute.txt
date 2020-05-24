@@ -1,0 +1,11 @@
+C:\Users\43190829829\Desktop\C#\temper\obj\Debug\netcoreapp2.2\temper.csprojAssemblyReference.cache
+C:\Users\43190829829\Desktop\C#\temper\obj\Debug\netcoreapp2.2\temper.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\Desktop\C#\temper\obj\Debug\netcoreapp2.2\temper.AssemblyInfoInputs.cache
+C:\Users\43190829829\Desktop\C#\temper\obj\Debug\netcoreapp2.2\temper.AssemblyInfo.cs
+C:\Users\43190829829\Desktop\C#\temper\bin\Debug\netcoreapp2.2\temper.deps.json
+C:\Users\43190829829\Desktop\C#\temper\bin\Debug\netcoreapp2.2\temper.runtimeconfig.json
+C:\Users\43190829829\Desktop\C#\temper\bin\Debug\netcoreapp2.2\temper.runtimeconfig.dev.json
+C:\Users\43190829829\Desktop\C#\temper\bin\Debug\netcoreapp2.2\temper.dll
+C:\Users\43190829829\Desktop\C#\temper\bin\Debug\netcoreapp2.2\temper.pdb
+C:\Users\43190829829\Desktop\C#\temper\obj\Debug\netcoreapp2.2\temper.dll
+C:\Users\43190829829\Desktop\C#\temper\obj\Debug\netcoreapp2.2\temper.pdb

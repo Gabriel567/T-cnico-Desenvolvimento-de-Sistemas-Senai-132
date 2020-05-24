@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: consolas;
+}
+
+div#rodape {
+    text-align: center;
+    background-position: center;
+    background-color: #FFC600
+}
+
+#rodape {
+    width: 100%;
+}
+
+header {
+    background-color: #7D0093;
+}
+
+header {
+    margin-bottom: 4em;
+}
+
+#Logo {
+    width: 100px;
+    height: 80px;
+}
+
+#Logo {
+    background-position: left;
+}
+
+#nome,
+#nascimento,
+#email,
+#password,
+#repetepassword {
+    margin-bottom: 3em;
+}
+
+#send {
+    background-color: #FFC600;
+}
+
+#Cadastro {
+    color: #7D0093;
+}

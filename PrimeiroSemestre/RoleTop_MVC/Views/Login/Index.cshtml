@@ -1,0 +1,39 @@
+<main>
+        <img id="oculto" src="img/rosto oculto.jpg" title="Incognita" alt="Incognita">
+        
+        <form method="POST" action='@Url.Action("Index", "Login")'>
+            
+            <div id="user">
+                
+                Nome: <br />
+                <input type="text" name="nome">
+                <br /> <br />
+                
+            </div>
+            
+            <div id="pass">
+                
+                Senha: <br />
+                <input type="password" name="senha">
+                <br />
+                
+            </div>
+            
+            <div id="remember">
+                
+                <p><strong>Esqueceu a senha?</strong></p>
+                <br /> <br />
+                
+            </div>
+            
+            <input id="confirm" type="submit" value="Confirmar" id="send" name="confirmar">
+            
+        </form>
+        
+        <form method="POST" action='@Url.Action("Index", "Welcome")'>
+            
+            <input type="submit" value="Entrar como ADM" id="mad">
+            
+        </form>
+        
+    </main>

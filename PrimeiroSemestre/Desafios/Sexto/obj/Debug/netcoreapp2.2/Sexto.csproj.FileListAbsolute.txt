@@ -1,0 +1,11 @@
+C:\Users\43190829829\Desktop\Exercicios\sexto\bin\Debug\netcoreapp2.2\Sexto.deps.json
+C:\Users\43190829829\Desktop\Exercicios\sexto\bin\Debug\netcoreapp2.2\Sexto.runtimeconfig.json
+C:\Users\43190829829\Desktop\Exercicios\sexto\bin\Debug\netcoreapp2.2\Sexto.runtimeconfig.dev.json
+C:\Users\43190829829\Desktop\Exercicios\sexto\bin\Debug\netcoreapp2.2\Sexto.dll
+C:\Users\43190829829\Desktop\Exercicios\sexto\bin\Debug\netcoreapp2.2\Sexto.pdb
+C:\Users\43190829829\Desktop\Exercicios\sexto\obj\Debug\netcoreapp2.2\Sexto.csprojAssemblyReference.cache
+C:\Users\43190829829\Desktop\Exercicios\sexto\obj\Debug\netcoreapp2.2\Sexto.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\sexto\obj\Debug\netcoreapp2.2\Sexto.AssemblyInfoInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\sexto\obj\Debug\netcoreapp2.2\Sexto.AssemblyInfo.cs
+C:\Users\43190829829\Desktop\Exercicios\sexto\obj\Debug\netcoreapp2.2\Sexto.dll
+C:\Users\43190829829\Desktop\Exercicios\sexto\obj\Debug\netcoreapp2.2\Sexto.pdb

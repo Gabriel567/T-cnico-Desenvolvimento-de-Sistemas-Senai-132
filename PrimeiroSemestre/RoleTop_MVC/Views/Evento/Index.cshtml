@@ -1,0 +1,85 @@
+<main>
+
+        <form method="POST" action='@Url.Action("Registrar", "Evento")'>
+
+        <h1>Faça seu evento @Model.NomeUsuario</h1>
+
+        <br /> <br /> <br />
+
+        <select>
+
+                <option value="Qual o evento?">Qual o evento?</option>
+                
+                @foreach(var comemoracao in Model.Comemoracao)
+                {
+                        <option name=comemoracao value=@comemoracao.Nome>@comemoracao.Nome por @comemoracao.Preco</option>
+                }
+
+        </select>
+
+        <br /> <br /> <br />
+
+        Data e hora <br />
+        <input type="datetime-local" name="datelocal" id="lodate">
+        <br />
+
+        <br /> <br /> 
+
+        <select>
+
+        <option value="Serviço de som">Serviço de som</option>
+        
+        @foreach(var som in Model.Som)
+        {
+                <option name=som value=@som.Nome>@som.Nome por @som.Preco</option>
+        }
+
+        </select>
+
+        <br /> <br /> <br />
+
+        <select>
+
+                <option value="Serviço de iluminação">Serviço de iluminação</option>
+                
+                @foreach(var iluminacao in Model.Iluminacao)
+                {
+                        <option name=iluminacao value=@iluminacao.Nome>@iluminacao.Nome por @iluminacao.Preco</option>
+                }
+
+        </select>
+
+        <br /> <br /> <br />
+        
+        <select>
+
+                <option value="Mesas e Cadeiras">Mesas e Cadeiras</option>
+                
+                @foreach(var mesaCadeira in Model.MesaCadeiras)
+                {
+                        <option name=mesaCadeira value=@mesaCadeira.Valor>@mesaCadeira.Valor por @mesaCadeira.Preco</option>
+                }
+
+        </select>
+
+        <br /> <br /> <br />
+
+        <select id="erro">
+
+                <option value="N° de convidados">N° de convidados</option>
+                
+                @foreach(var convidados in Model.Convidados)
+                {
+                        <option name=convidados value=@convidados.Valor>@convidados.Valor por @convidados.Preco</option>
+                }
+
+        </select>
+
+        <input type="submit" value="Confirmar" id="go">
+
+        </form>
+
+        <br /><br /> <br /><br /> <br /> <br /> <br /><br /> <br /><br /> <br /> <br /> <br /><br /> <br /><br /> <br /> <br /> <br />
+
+
+</main>

@@ -1,0 +1,111 @@
+@model RoleTop.ViewModels.DashboardViewModel
+
+<main>
+
+    <h2>Dashboard</h2>
+
+    <section id="status-evento">
+
+        <h3>Status dos eventos</h3>
+
+        <div id="painel">
+
+            <div class="box-status-eventos aprovados">
+
+                <h4>Aprovados</h4>
+
+                <p>@Model.EventosAprovados</p>
+
+            </div>
+
+            <div class="box-status-eventos pendentes">
+
+                <h4>Pendentes</h4>
+
+                <p>@Model.EventosPendentes</p>
+
+            </div>
+
+            <div class="box-status-eventos reprovados">
+
+                <h4>Reprovados</h4>
+
+                <p>@Model.EventosReprovados</p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section id="lista-eventos">
+
+        <h3>Lista de Eventos</h3>
+
+        <table>
+
+            <thead>
+
+                <tr>
+
+                    <th rowspan="2">Nome</th>
+
+                    <th rowspan="2">Email</th>
+
+                    <th rwospan="2">Evento</th>
+
+                    <th rowspan="2">Aprovar</th>
+
+                </tr>
+
+                <tr>
+
+                    <th><i class="fas fa-comemoracao"></i></th>
+
+                    <th><i class="fas fa-mug-host"></i></th>
+
+                    <th></th>
+
+                    <th></th>
+
+                </tr>
+
+            </thead>
+
+            <tfoot>
+
+                <tbody>
+
+                    @foreach(var evento in Model.Eventos)
+                    {
+                        <tr>
+
+                            <td>@evento.Cliente.Nome</td>
+
+                            <td>@evento.Cliente.Email</td>
+
+                            <td>@evento.Comemoracao.Nome</td>
+
+                            <td>@evento.Convidados.Valor</td>
+
+                            <td>@evento.MesaCadeira.Valor</td>
+
+                            <td>@evento.Som.Nome</td>
+
+                            <td>@evento.Iluminacao.Nome</td>
+
+                            <td><a href='@Url.Action("Aprovar", "Evento", new {id = @evento.ID})'><i class="fas fa-check"></i></a></td>
+
+                            <td><a href='@Url.Action("Reprovar", "Evento", new {id = @evento.ID})'><i class="fas fa-times"></i></a></td>
+
+                        </tr>
+                    }
+                </tbody>
+
+            </tfoot>
+
+        </table>
+
+    </section>
+    
+</main>

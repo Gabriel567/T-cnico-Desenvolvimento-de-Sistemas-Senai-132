@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/*************Rodapé*************/
+
+div#rodape {
+    text-align: center;
+    background-position: center;
+    background-color: #FFC600
+}
+
+
+/**********Fim do rodapé**********/
+
+nav {
+    background-color: #7D0093;
+    width: 100%;
+}
+
+h2 {
+    color: black;
+}
+
+#informativo {
+    width: 40%;
+    text-align: center;
+    background-position: 40%;
+}
+
+#rodape {
+    width: 100%;
+}
+
+#Logo {
+    width: 100px;
+    height: 80px;
+}
+
+#us {
+    background-color: #7D0093;
+    font-size: 1.5em;
+}
+
+#rt {
+    font-family: "Bayou Cowboy";
+    border: 0.3em solid black;
+    font-size: 2.7em;
+}
+
+html {
+    font-family: consolas;
+}
+
+#informativo {
+    border: 2px solid black;
+    margin-left: 25em;
+    margin-right: 20em;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    font-size: 1.4em;
+    background-position: center;
+    text-align: center;
+}
+
+#principal {
+    margin-top: -2.6em;
+    width: 100%;
+}
+
+#t1 {
+    text-align: center;
+    background-position: center;
+}
+
+#sub {
+    margin-top: 27px;
+    margin-left: 50px;
+    float: left;
+}
+
+nav #bt-mobile-menu {
+    display: block;
+}
+
+nav .bt-common-menu {
+    display: none;
+}
+
+nav .bt-common-menu.active {
+    display: block;
+}
+
+nav ul.mobile-mode {
+    display: flex;
+    flex-direction: column;
+}
+
+nav #bt-mobile-menu,
+nav .bt-common-menu,
+nav .bt-common-menu.active,
+nav ul.mobile-mode {
+    float: left;
+    margin-top: 28px;
+    margin-left: 40px;
+    font-size: 30px;
+    color: black;
+}
+
+#localizacao {
+    background-color: #7D0093;
+    font-size: 1.5em;
+}
+
+#contact {
+    background-color: #7D0093;
+    font-size: 1.5em;
+}
+
+#opinioes {
+    background-color: #7D0093;
+    font-size: 1.5em;
+}
+
+#Espaços {
+    background-color: #7D0093;
+    font-size: 1.5em;
+}
+
+img {
+    width: 40em;
+    height: 40em;
+}
+
+#party,
+#banheiro,
+#estacionamento {
+    border: 2.5px solid black;
+}
+
+#banheiro {
+    margin-top: 78px;
+}
+
+#d1 {
+    float: left;
+    margin-top: -5em;
+    margin-left: 15em;
+    margin-top: -0.1em;
+}
+
+#s2 {
+    margin-left: 20em;
+}
+
+#tt {
+    margin: -20px;
+    margin-bottom: 10px;
+}
+
+#ff {
+    border: 2px solid black;
+}
+
+#w,
+#fk,
+#em {
+    font-size: 20px;
+}
+
+@media (max-width: 1000px) {
+    #Logo {
+        margin-right: 5em;
+    }
+    ul {
+        width: 100%;
+        margin-left: 15px;
+    }
+    #us {
+        width: 100%;
+    }
+    #navegation {
+        width: 140%;
+    }
+    #enter {
+        background-position: left;
+    }
+    #rt {
+        width: 97%;
+        font-size: 1.2em;
+        margin-right: 4em;
+    }
+    
+    #Espaços {
+        width: 100%;
+    }
+}

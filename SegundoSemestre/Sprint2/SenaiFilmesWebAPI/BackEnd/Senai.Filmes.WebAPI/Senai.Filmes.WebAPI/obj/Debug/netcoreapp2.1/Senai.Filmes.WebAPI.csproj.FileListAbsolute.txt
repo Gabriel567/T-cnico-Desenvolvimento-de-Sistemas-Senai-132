@@ -1,0 +1,14 @@
+C:\Users\43190829829\source\repos\Senai.Filmes.WebAPI\Senai.Filmes.WebAPI\bin\Debug\netcoreapp2.1\Senai.Filmes.WebAPI.deps.json
+C:\Users\43190829829\source\repos\Senai.Filmes.WebAPI\Senai.Filmes.WebAPI\bin\Debug\netcoreapp2.1\Senai.Filmes.WebAPI.runtimeconfig.json
+C:\Users\43190829829\source\repos\Senai.Filmes.WebAPI\Senai.Filmes.WebAPI\bin\Debug\netcoreapp2.1\Senai.Filmes.WebAPI.runtimeconfig.dev.json
+C:\Users\43190829829\source\repos\Senai.Filmes.WebAPI\Senai.Filmes.WebAPI\bin\Debug\netcoreapp2.1\Senai.Filmes.WebAPI.dll
+C:\Users\43190829829\source\repos\Senai.Filmes.WebAPI\Senai.Filmes.WebAPI\obj\Debug\netcoreapp2.1\Senai.Filmes.WebAPI.csprojAssemblyReference.cache
+C:\Users\43190829829\source\repos\Senai.Filmes.WebAPI\Senai.Filmes.WebAPI\obj\Debug\netcoreapp2.1\Senai.Filmes.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\source\repos\Senai.Filmes.WebAPI\Senai.Filmes.WebAPI\obj\Debug\netcoreapp2.1\Senai.Filmes.WebAPI.RazorAssemblyInfo.cache
+C:\Users\43190829829\source\repos\Senai.Filmes.WebAPI\Senai.Filmes.WebAPI\obj\Debug\netcoreapp2.1\Senai.Filmes.WebAPI.RazorAssemblyInfo.cs
+C:\Users\43190829829\source\repos\Senai.Filmes.WebAPI\Senai.Filmes.WebAPI\obj\Debug\netcoreapp2.1\Senai.Filmes.WebAPI.AssemblyInfoInputs.cache
+C:\Users\43190829829\source\repos\Senai.Filmes.WebAPI\Senai.Filmes.WebAPI\obj\Debug\netcoreapp2.1\Senai.Filmes.WebAPI.AssemblyInfo.cs
+C:\Users\43190829829\source\repos\Senai.Filmes.WebAPI\Senai.Filmes.WebAPI\obj\Debug\netcoreapp2.1\Senai.Filmes.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\43190829829\source\repos\Senai.Filmes.WebAPI\Senai.Filmes.WebAPI\bin\Debug\netcoreapp2.1\Senai.Filmes.WebAPI.pdb
+C:\Users\43190829829\source\repos\Senai.Filmes.WebAPI\Senai.Filmes.WebAPI\obj\Debug\netcoreapp2.1\Senai.Filmes.WebAPI.dll
+C:\Users\43190829829\source\repos\Senai.Filmes.WebAPI\Senai.Filmes.WebAPI\obj\Debug\netcoreapp2.1\Senai.Filmes.WebAPI.pdb

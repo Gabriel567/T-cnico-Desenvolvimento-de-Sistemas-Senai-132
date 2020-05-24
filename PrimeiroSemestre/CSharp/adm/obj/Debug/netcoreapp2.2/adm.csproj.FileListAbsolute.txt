@@ -1,0 +1,11 @@
+C:\Users\43190829829\Desktop\C#\adm\obj\Debug\netcoreapp2.2\adm.csprojAssemblyReference.cache
+C:\Users\43190829829\Desktop\C#\adm\obj\Debug\netcoreapp2.2\adm.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\Desktop\C#\adm\obj\Debug\netcoreapp2.2\adm.AssemblyInfoInputs.cache
+C:\Users\43190829829\Desktop\C#\adm\obj\Debug\netcoreapp2.2\adm.AssemblyInfo.cs
+C:\Users\43190829829\Desktop\C#\adm\bin\Debug\netcoreapp2.2\adm.deps.json
+C:\Users\43190829829\Desktop\C#\adm\bin\Debug\netcoreapp2.2\adm.runtimeconfig.json
+C:\Users\43190829829\Desktop\C#\adm\bin\Debug\netcoreapp2.2\adm.runtimeconfig.dev.json
+C:\Users\43190829829\Desktop\C#\adm\bin\Debug\netcoreapp2.2\adm.dll
+C:\Users\43190829829\Desktop\C#\adm\bin\Debug\netcoreapp2.2\adm.pdb
+C:\Users\43190829829\Desktop\C#\adm\obj\Debug\netcoreapp2.2\adm.dll
+C:\Users\43190829829\Desktop\C#\adm\obj\Debug\netcoreapp2.2\adm.pdb

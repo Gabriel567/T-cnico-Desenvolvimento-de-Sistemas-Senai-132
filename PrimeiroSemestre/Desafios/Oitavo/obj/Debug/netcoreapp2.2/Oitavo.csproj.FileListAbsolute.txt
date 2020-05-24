@@ -1,0 +1,11 @@
+C:\Users\43190829829\Desktop\Exercicios\oitavo\bin\Debug\netcoreapp2.2\Oitavo.deps.json
+C:\Users\43190829829\Desktop\Exercicios\oitavo\bin\Debug\netcoreapp2.2\Oitavo.runtimeconfig.json
+C:\Users\43190829829\Desktop\Exercicios\oitavo\bin\Debug\netcoreapp2.2\Oitavo.runtimeconfig.dev.json
+C:\Users\43190829829\Desktop\Exercicios\oitavo\bin\Debug\netcoreapp2.2\Oitavo.dll
+C:\Users\43190829829\Desktop\Exercicios\oitavo\bin\Debug\netcoreapp2.2\Oitavo.pdb
+C:\Users\43190829829\Desktop\Exercicios\oitavo\obj\Debug\netcoreapp2.2\Oitavo.csprojAssemblyReference.cache
+C:\Users\43190829829\Desktop\Exercicios\oitavo\obj\Debug\netcoreapp2.2\Oitavo.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\oitavo\obj\Debug\netcoreapp2.2\Oitavo.AssemblyInfoInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\oitavo\obj\Debug\netcoreapp2.2\Oitavo.AssemblyInfo.cs
+C:\Users\43190829829\Desktop\Exercicios\oitavo\obj\Debug\netcoreapp2.2\Oitavo.dll
+C:\Users\43190829829\Desktop\Exercicios\oitavo\obj\Debug\netcoreapp2.2\Oitavo.pdb

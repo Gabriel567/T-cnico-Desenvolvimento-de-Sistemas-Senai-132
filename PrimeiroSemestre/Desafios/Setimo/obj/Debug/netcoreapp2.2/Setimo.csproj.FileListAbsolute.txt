@@ -1,0 +1,11 @@
+C:\Users\43190829829\Desktop\Exercicios\setimo\obj\Debug\netcoreapp2.2\Setimo.csprojAssemblyReference.cache
+C:\Users\43190829829\Desktop\Exercicios\setimo\obj\Debug\netcoreapp2.2\Setimo.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\setimo\obj\Debug\netcoreapp2.2\Setimo.AssemblyInfoInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\setimo\obj\Debug\netcoreapp2.2\Setimo.AssemblyInfo.cs
+C:\Users\43190829829\Desktop\Exercicios\setimo\bin\Debug\netcoreapp2.2\Setimo.deps.json
+C:\Users\43190829829\Desktop\Exercicios\setimo\bin\Debug\netcoreapp2.2\Setimo.runtimeconfig.json
+C:\Users\43190829829\Desktop\Exercicios\setimo\bin\Debug\netcoreapp2.2\Setimo.runtimeconfig.dev.json
+C:\Users\43190829829\Desktop\Exercicios\setimo\bin\Debug\netcoreapp2.2\Setimo.dll
+C:\Users\43190829829\Desktop\Exercicios\setimo\bin\Debug\netcoreapp2.2\Setimo.pdb
+C:\Users\43190829829\Desktop\Exercicios\setimo\obj\Debug\netcoreapp2.2\Setimo.dll
+C:\Users\43190829829\Desktop\Exercicios\setimo\obj\Debug\netcoreapp2.2\Setimo.pdb

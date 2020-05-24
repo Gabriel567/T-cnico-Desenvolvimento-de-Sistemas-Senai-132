@@ -1,0 +1,11 @@
+C:\Users\43190829829\Desktop\Exercicios\decimoprimeiro\bin\Debug\netcoreapp2.2\DecimoPrimeiro.deps.json
+C:\Users\43190829829\Desktop\Exercicios\decimoprimeiro\bin\Debug\netcoreapp2.2\DecimoPrimeiro.runtimeconfig.json
+C:\Users\43190829829\Desktop\Exercicios\decimoprimeiro\bin\Debug\netcoreapp2.2\DecimoPrimeiro.runtimeconfig.dev.json
+C:\Users\43190829829\Desktop\Exercicios\decimoprimeiro\bin\Debug\netcoreapp2.2\DecimoPrimeiro.dll
+C:\Users\43190829829\Desktop\Exercicios\decimoprimeiro\bin\Debug\netcoreapp2.2\DecimoPrimeiro.pdb
+C:\Users\43190829829\Desktop\Exercicios\decimoprimeiro\obj\Debug\netcoreapp2.2\DecimoPrimeiro.csprojAssemblyReference.cache
+C:\Users\43190829829\Desktop\Exercicios\decimoprimeiro\obj\Debug\netcoreapp2.2\DecimoPrimeiro.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\decimoprimeiro\obj\Debug\netcoreapp2.2\DecimoPrimeiro.AssemblyInfoInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\decimoprimeiro\obj\Debug\netcoreapp2.2\DecimoPrimeiro.AssemblyInfo.cs
+C:\Users\43190829829\Desktop\Exercicios\decimoprimeiro\obj\Debug\netcoreapp2.2\DecimoPrimeiro.dll
+C:\Users\43190829829\Desktop\Exercicios\decimoprimeiro\obj\Debug\netcoreapp2.2\DecimoPrimeiro.pdb

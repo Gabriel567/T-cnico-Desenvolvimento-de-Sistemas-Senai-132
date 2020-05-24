@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senai.InLock.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:Senai.InLock.WebApi.Controllers.EstudiosController">
+            <summary>
+            Controller responsável pelos endpoints referentes aos estúdios
+            </summary>
+        </member>
+        <member name="M:Senai.InLock.WebApi.Controllers.EstudiosController.Post(Senai.InLock.WebApi.Domains.EstudiosDomain)">
+            <summary>
+            Cadastra um novo estúdio
+            </summary>
+            <param name="novoEstudio"></param>
+            <response code="201">Returns Created</response>
+        </member>
+        <member name="M:Senai.InLock.WebApi.Controllers.EstudiosController.Get">
+            <summary>
+            Lista todos os estúdios
+            </summary>
+            <param name="ListarEstudios"></param>
+            <response code="201">Returns OK</response>
+        </member>
+        <member name="T:Senai.InLock.WebApi.Controllers.JogosController">
+            <summary>
+            Controller responsável pelos endpoints referentes aos jogos
+            </summary>
+        </member>
+        <member name="P:Senai.InLock.WebApi.Controllers.JogosController._jogosRepository">
+            <summary>
+            Cria um objeto _jogosRepository que irá receber todos os métodos definidos na interface
+            </summary>
+        </member>
+        <member name="M:Senai.InLock.WebApi.Controllers.JogosController.#ctor">
+            <summary>
+            Instancia o objeto para que haja referencia entre ele e o repositório
+            </summary>
+        </member>
+        <member name="M:Senai.InLock.WebApi.Controllers.JogosController.Post(Senai.InLock.WebApi.Domains.JogosDomain)">
+            <summary>
+            Cadastra um novo jogo
+            </summary>
+            <param name="novoJogo">Objeto novoJogo que será cadastrado</param>
+            <returns>Retorna os dados que foram enviados para cadastro e retorna um statusCode 201 - Created</returns>
+            dominio/api/Jogos
+             <response code="201">Returns Created</response>
+        </member>
+        <member name="T:Senai.InLock.WebApi.Controllers.LoginController">
+            <summary>
+            Controller responsável pelos endpoints referentes aos usuários
+            </summary>
+        </member>
+        <member name="M:Senai.InLock.WebApi.Controllers.LoginController.Post(Senai.InLock.WebApi.ViewModels.LoginViewModel)">
+            <summary>
+            Valida o usuario
+            </summary>
+            <param name="login">Objeto login que contem o email e a senha do usuario</param>
+            <returns>Retorna um token com as informações do usuarios</returns>
+        </member>
+        <member name="M:Senai.InLock.WebApi.Interfaces.IEstudiosRepository.CadastrarEstudio(Senai.InLock.WebApi.Domains.EstudiosDomain)">
+            <summary>
+            Cadastro de um novo estúdio
+            </summary>
+            <param name="novoEstudio">Objeto novoEstudio que será cadastrado</param>
+        </member>
+        <member name="M:Senai.InLock.WebApi.Interfaces.IEstudiosRepository.ListarEstudios">
+            <summary>
+            Lista todos os estúdios
+            </summary>
+             <returns>Uma lista de estúdios</returns>
+        </member>
+        <member name="M:Senai.InLock.WebApi.Interfaces.IJogosRepository.CadastrarJogo(Senai.InLock.WebApi.Domains.JogosDomain)">
+            <summary>
+            Cadastra um novo jogo
+            </summary>
+            <param name="novoJogo">Objeto novoJogo que será cadastrado</param>
+        </member>
+        <member name="M:Senai.InLock.WebApi.Interfaces.IJogosRepository.ListarJogos">
+            <summary>
+            Lista todos os jogos
+            </summary>
+            <returns>Uma lista de filmes</returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Senai.InLock.WebApi.Interfaces.IUsuariosRepository.BuscarPorEmailSenha(System.String,System.String)" -->
+        <member name="M:Senai.InLock.WebApi.Repositories.JogosRepository.CadastrarJogo(Senai.InLock.WebApi.Domains.JogosDomain)">
+            <summary>
+            Cadastra um novo jogo
+            </summary>
+            <param name="novoJogo">Objeto novoJogo que será cadastrado</param>
+        </member>
+    </members>
+</doc>

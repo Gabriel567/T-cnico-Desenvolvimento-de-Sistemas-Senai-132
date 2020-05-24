@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: consolas;
+}
+
+
+nav {
+    background-color: #7D0093; 
+}
+
+#Logo {
+    width: 100px;
+    height: 80px;
+}
+
+body {
+    color: #7D0093;
+}
+
+#go {
+    background-color: #FFC600;
+    
+}
+
+#back {
+    font-size: 1.3em;
+    color: #7D0093;
+    background-color: #FFC600
+}
+

@@ -1,0 +1,119 @@
+﻿@{
+    var nomeView = (string) ViewData["NomeView"];
+}
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    
+    <script src="https://kit.fontawesome.com/f6e60ae726.js"></script>
+    
+    <meta charset="utf-8">
+    
+    <title>Role Top</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="stylesheet" type="text/css" href="~/css/style.css">
+
+    
+    
+        <link href="~/css/adm.css" rel="stylesheet" type="text/css">
+        <link href="~/css/adm2.css" rel="stylesheet" type="text/css">
+        <link href="~/css/evento.css" rel="stylesheet" type="text/css">
+        <link href="~/css/evento2.css" rel="stylesheet" type="text/css">
+        <link href="~/css/evento3.css" rel="stylesheet" type="text/css">
+        <link href="~/css/reqy.css" rel="stylesheet" type="text/css">
+        <link href="~/css/reqy2.css" rel="stylesheet" type="text/css">
+        <link href="~/css/bemvindo.css" rel="stylesheet" type="text/css">
+        <link href="~/css/cadastro.css" rel="stylesheet" type="text/css">
+        <link href="~/css/login.css" rel="stylesheet" type="text/css">
+    
+    
+</head>
+
+<body>
+    
+    <nav id="navegation">
+        
+        <div class="section-container">
+            
+            <ul>
+                
+                <li id="bt-mobile-menu">
+                    
+                    <!-- HTML para colocar os ícones do FA -->
+                    
+                    <a href="javascript:void(0);" class="icon" onclick="toggleMobileMenu()">
+                        
+                        <i class="fa fa-bars"></i>
+                        
+                    </a>
+                    
+                </li>
+                <li class="bt-common-menu"><a onclick="toggleMobileMenu()" asp-controller="Home" asp-action="Index" class="active">Home</a></li>
+                <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("Index", "Home")#sobrenos'>Sobre nós</a></li>
+                <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("Index", "Home")#espacos'>Espaço</a></li>
+                <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("Index", "Home")#opinioes'>Opiniões</a></li>
+                <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("Index", "Home")#localizacao'>Localização</a></li>
+                <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("Index", "Cadastro")#cadastro'>Cadastro</a></li>
+                <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("Index", "Login")#login'>Login</a></li>
+                <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("Index", "Home")#contato'>Contato</a></li>
+                
+            </ul>
+            
+        </div>
+        
+        <img id="Logo" src="img/Logo.png" title="Logo Role Top" alt="Logo Role Top" /><a href="RoleTop.html"></a>
+        
+    </nav>
+
+    @RenderBody()
+        
+    <footer>
+        
+        <div id="rodape">
+            
+            <h3>Role Top Ltda/CNPJ: 12.345.678/9012-34</h3>
+            <h3>2019 Todos os direitos reservados. Por Souza</h3>  
+            
+        </div>
+        
+    </footer>
+
+    <script>
+        
+        function toggleMobileMenu() {
+            var ul = document.querySelector("nav ul");
+            var commonButtons = document.querySelectorAll("nav .bt-common-menu");
+            var icon = document.querySelector(".icon > i");
+            
+            ul.classList.toggle("mobile-mode");
+            
+            if (icon.classList.contains("fa-bars")) {
+                icon.classList.remove("fa-bars");
+                icon.classList.remove("fa");
+                
+                icon.classList.add("fas");
+                icon.classList.add("fa-skull");
+            } else {
+                icon.classList.remove("fas");
+                icon.classList.remove("fa-skull");
+                
+                icon.classList.add("fa");
+                icon.classList.add("fa-bars");
+            }
+            
+            for (var button of commonButtons) {
+                button.classList.toggle("active");
+            }
+            
+        }
+        
+    </script>
+    
+</body>
+
+</html>

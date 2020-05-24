@@ -1,0 +1,11 @@
+C:\Users\43190829829\Desktop\Exercicios\terceiro\obj\Debug\netcoreapp2.2\Terceiro.csprojAssemblyReference.cache
+C:\Users\43190829829\Desktop\Exercicios\terceiro\obj\Debug\netcoreapp2.2\Terceiro.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\terceiro\obj\Debug\netcoreapp2.2\Terceiro.AssemblyInfoInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\terceiro\obj\Debug\netcoreapp2.2\Terceiro.AssemblyInfo.cs
+C:\Users\43190829829\Desktop\Exercicios\terceiro\bin\Debug\netcoreapp2.2\Terceiro.deps.json
+C:\Users\43190829829\Desktop\Exercicios\terceiro\bin\Debug\netcoreapp2.2\Terceiro.runtimeconfig.json
+C:\Users\43190829829\Desktop\Exercicios\terceiro\bin\Debug\netcoreapp2.2\Terceiro.runtimeconfig.dev.json
+C:\Users\43190829829\Desktop\Exercicios\terceiro\bin\Debug\netcoreapp2.2\Terceiro.dll
+C:\Users\43190829829\Desktop\Exercicios\terceiro\bin\Debug\netcoreapp2.2\Terceiro.pdb
+C:\Users\43190829829\Desktop\Exercicios\terceiro\obj\Debug\netcoreapp2.2\Terceiro.dll
+C:\Users\43190829829\Desktop\Exercicios\terceiro\obj\Debug\netcoreapp2.2\Terceiro.pdb

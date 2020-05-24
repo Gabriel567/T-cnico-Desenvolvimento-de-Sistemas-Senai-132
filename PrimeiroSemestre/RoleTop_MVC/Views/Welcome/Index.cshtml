@@ -1,0 +1,29 @@
+<main>
+        
+        <h1 id="welcome">Bem vindo</h1>
+        
+        <form method="POST" action='@Url.Action("Index", "Evento")'>
+            
+            <br /><br /><br /><br /><br /><br />
+            <input type="submit" value="Fazer evento" id="buy" name="new-evento">
+            <br /><br /><br /><br /><br /><br />
+            
+        </form>
+        
+        <form method="POST" action='@Url.Action("Index", "VerEvento")'>
+            
+            <input type="submit" value="Ver meu evento" id="see" name="ver-evento">
+            <br /><br /><br /><br /><br /><br />
+            
+        </form>
+        
+        <form method="POST" action='@Url.Action("Index", "Home")'>
+            
+            <input type="submit" value="SAIR" id="exit" name="sair">
+            <br /><br /><br /><br /><br /><br />
+            
+        </form>
+
+        <br /><br /> <br /><br /> <br /><br /> <br /><br /> <br />
+        
+    </main>

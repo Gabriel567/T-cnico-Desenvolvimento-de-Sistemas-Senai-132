@@ -1,0 +1,11 @@
+C:\Users\43190829829\Desktop\Exercicios\quinto\obj\Debug\netcoreapp2.2\Quinto.csprojAssemblyReference.cache
+C:\Users\43190829829\Desktop\Exercicios\quinto\obj\Debug\netcoreapp2.2\Quinto.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\quinto\obj\Debug\netcoreapp2.2\Quinto.AssemblyInfoInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\quinto\obj\Debug\netcoreapp2.2\Quinto.AssemblyInfo.cs
+C:\Users\43190829829\Desktop\Exercicios\quinto\bin\Debug\netcoreapp2.2\Quinto.deps.json
+C:\Users\43190829829\Desktop\Exercicios\quinto\bin\Debug\netcoreapp2.2\Quinto.runtimeconfig.json
+C:\Users\43190829829\Desktop\Exercicios\quinto\bin\Debug\netcoreapp2.2\Quinto.runtimeconfig.dev.json
+C:\Users\43190829829\Desktop\Exercicios\quinto\bin\Debug\netcoreapp2.2\Quinto.dll
+C:\Users\43190829829\Desktop\Exercicios\quinto\bin\Debug\netcoreapp2.2\Quinto.pdb
+C:\Users\43190829829\Desktop\Exercicios\quinto\obj\Debug\netcoreapp2.2\Quinto.dll
+C:\Users\43190829829\Desktop\Exercicios\quinto\obj\Debug\netcoreapp2.2\Quinto.pdb

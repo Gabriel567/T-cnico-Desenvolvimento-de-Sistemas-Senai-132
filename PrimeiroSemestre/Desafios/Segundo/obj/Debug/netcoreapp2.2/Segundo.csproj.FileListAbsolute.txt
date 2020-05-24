@@ -1,0 +1,11 @@
+C:\Users\43190829829\Desktop\Exercicios\segundo\bin\Debug\netcoreapp2.2\Segundo.deps.json
+C:\Users\43190829829\Desktop\Exercicios\segundo\bin\Debug\netcoreapp2.2\Segundo.runtimeconfig.json
+C:\Users\43190829829\Desktop\Exercicios\segundo\bin\Debug\netcoreapp2.2\Segundo.runtimeconfig.dev.json
+C:\Users\43190829829\Desktop\Exercicios\segundo\bin\Debug\netcoreapp2.2\Segundo.dll
+C:\Users\43190829829\Desktop\Exercicios\segundo\bin\Debug\netcoreapp2.2\Segundo.pdb
+C:\Users\43190829829\Desktop\Exercicios\segundo\obj\Debug\netcoreapp2.2\Segundo.csprojAssemblyReference.cache
+C:\Users\43190829829\Desktop\Exercicios\segundo\obj\Debug\netcoreapp2.2\Segundo.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\segundo\obj\Debug\netcoreapp2.2\Segundo.AssemblyInfoInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\segundo\obj\Debug\netcoreapp2.2\Segundo.AssemblyInfo.cs
+C:\Users\43190829829\Desktop\Exercicios\segundo\obj\Debug\netcoreapp2.2\Segundo.dll
+C:\Users\43190829829\Desktop\Exercicios\segundo\obj\Debug\netcoreapp2.2\Segundo.pdb

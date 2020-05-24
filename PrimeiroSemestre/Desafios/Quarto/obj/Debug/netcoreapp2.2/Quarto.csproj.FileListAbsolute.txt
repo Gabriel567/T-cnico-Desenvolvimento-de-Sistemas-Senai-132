@@ -1,0 +1,11 @@
+C:\Users\43190829829\Desktop\Exercicios\quarto\obj\Debug\netcoreapp2.2\Quarto.csprojAssemblyReference.cache
+C:\Users\43190829829\Desktop\Exercicios\quarto\obj\Debug\netcoreapp2.2\Quarto.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\quarto\obj\Debug\netcoreapp2.2\Quarto.AssemblyInfoInputs.cache
+C:\Users\43190829829\Desktop\Exercicios\quarto\obj\Debug\netcoreapp2.2\Quarto.AssemblyInfo.cs
+C:\Users\43190829829\Desktop\Exercicios\quarto\bin\Debug\netcoreapp2.2\Quarto.deps.json
+C:\Users\43190829829\Desktop\Exercicios\quarto\bin\Debug\netcoreapp2.2\Quarto.runtimeconfig.json
+C:\Users\43190829829\Desktop\Exercicios\quarto\bin\Debug\netcoreapp2.2\Quarto.runtimeconfig.dev.json
+C:\Users\43190829829\Desktop\Exercicios\quarto\bin\Debug\netcoreapp2.2\Quarto.dll
+C:\Users\43190829829\Desktop\Exercicios\quarto\bin\Debug\netcoreapp2.2\Quarto.pdb
+C:\Users\43190829829\Desktop\Exercicios\quarto\obj\Debug\netcoreapp2.2\Quarto.dll
+C:\Users\43190829829\Desktop\Exercicios\quarto\obj\Debug\netcoreapp2.2\Quarto.pdb

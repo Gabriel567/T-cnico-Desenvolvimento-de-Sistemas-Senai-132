@@ -1,0 +1,11 @@
+C:\Users\43190829829\Desktop\C#\parouimpar\bin\Debug\netcoreapp2.2\parouimpar.deps.json
+C:\Users\43190829829\Desktop\C#\parouimpar\bin\Debug\netcoreapp2.2\parouimpar.runtimeconfig.json
+C:\Users\43190829829\Desktop\C#\parouimpar\bin\Debug\netcoreapp2.2\parouimpar.runtimeconfig.dev.json
+C:\Users\43190829829\Desktop\C#\parouimpar\bin\Debug\netcoreapp2.2\parouimpar.dll
+C:\Users\43190829829\Desktop\C#\parouimpar\bin\Debug\netcoreapp2.2\parouimpar.pdb
+C:\Users\43190829829\Desktop\C#\parouimpar\obj\Debug\netcoreapp2.2\parouimpar.csprojAssemblyReference.cache
+C:\Users\43190829829\Desktop\C#\parouimpar\obj\Debug\netcoreapp2.2\parouimpar.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\Desktop\C#\parouimpar\obj\Debug\netcoreapp2.2\parouimpar.AssemblyInfoInputs.cache
+C:\Users\43190829829\Desktop\C#\parouimpar\obj\Debug\netcoreapp2.2\parouimpar.AssemblyInfo.cs
+C:\Users\43190829829\Desktop\C#\parouimpar\obj\Debug\netcoreapp2.2\parouimpar.dll
+C:\Users\43190829829\Desktop\C#\parouimpar\obj\Debug\netcoreapp2.2\parouimpar.pdb

@@ -1,0 +1,15 @@
+Descritivo
+
+Enderecos: ID_Endereco, Rua, Numero, Cidade;
+
+TiposUsuarios: ID_TipoUsuario, TipoUsuario;
+
+SituacoesConsultas: ID_SituacaoConsulta, SituacaoConsulta;
+
+Clinicas: ID_Clinica, NomeFantasia, RazaoSocial, CNPJ, HorarioFuncionamento, ID_Endereco;
+
+Medicos: ID_Medico, Nome, Email, RG, CRM, CPF, Especialidade, Genero, Senha, ID_TipoUsuario, ID_Endereco;
+
+Usuarios: ID_Usuario, Nome, Email, RG, CPF, DataNascimento, Genero, Senha, ID_TipoUsuario, ID_Endereco;
+
+Consultas: ID_Consulta, Descricao, DataAgendamento, ID_Usuario, ID_Medico, ID_SituacaoConsulta, ID_Clinica.

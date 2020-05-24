@@ -1,0 +1,11 @@
+C:\Users\43190829829\Desktop\C#\primeiroexc\bin\Debug\netcoreapp2.2\PrimeiroExc.deps.json
+C:\Users\43190829829\Desktop\C#\primeiroexc\bin\Debug\netcoreapp2.2\PrimeiroExc.runtimeconfig.json
+C:\Users\43190829829\Desktop\C#\primeiroexc\bin\Debug\netcoreapp2.2\PrimeiroExc.runtimeconfig.dev.json
+C:\Users\43190829829\Desktop\C#\primeiroexc\bin\Debug\netcoreapp2.2\PrimeiroExc.dll
+C:\Users\43190829829\Desktop\C#\primeiroexc\bin\Debug\netcoreapp2.2\PrimeiroExc.pdb
+C:\Users\43190829829\Desktop\C#\primeiroexc\obj\Debug\netcoreapp2.2\PrimeiroExc.csprojAssemblyReference.cache
+C:\Users\43190829829\Desktop\C#\primeiroexc\obj\Debug\netcoreapp2.2\PrimeiroExc.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\Desktop\C#\primeiroexc\obj\Debug\netcoreapp2.2\PrimeiroExc.AssemblyInfoInputs.cache
+C:\Users\43190829829\Desktop\C#\primeiroexc\obj\Debug\netcoreapp2.2\PrimeiroExc.AssemblyInfo.cs
+C:\Users\43190829829\Desktop\C#\primeiroexc\obj\Debug\netcoreapp2.2\PrimeiroExc.dll
+C:\Users\43190829829\Desktop\C#\primeiroexc\obj\Debug\netcoreapp2.2\PrimeiroExc.pdb

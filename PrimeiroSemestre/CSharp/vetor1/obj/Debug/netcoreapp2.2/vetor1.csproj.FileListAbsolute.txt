@@ -1,0 +1,11 @@
+C:\Users\43190829829\Desktop\C#\vetor1\obj\Debug\netcoreapp2.2\vetor1.csprojAssemblyReference.cache
+C:\Users\43190829829\Desktop\C#\vetor1\obj\Debug\netcoreapp2.2\vetor1.csproj.CoreCompileInputs.cache
+C:\Users\43190829829\Desktop\C#\vetor1\obj\Debug\netcoreapp2.2\vetor1.AssemblyInfoInputs.cache
+C:\Users\43190829829\Desktop\C#\vetor1\obj\Debug\netcoreapp2.2\vetor1.AssemblyInfo.cs
+C:\Users\43190829829\Desktop\C#\vetor1\bin\Debug\netcoreapp2.2\vetor1.deps.json
+C:\Users\43190829829\Desktop\C#\vetor1\bin\Debug\netcoreapp2.2\vetor1.runtimeconfig.json
+C:\Users\43190829829\Desktop\C#\vetor1\bin\Debug\netcoreapp2.2\vetor1.runtimeconfig.dev.json
+C:\Users\43190829829\Desktop\C#\vetor1\bin\Debug\netcoreapp2.2\vetor1.dll
+C:\Users\43190829829\Desktop\C#\vetor1\bin\Debug\netcoreapp2.2\vetor1.pdb
+C:\Users\43190829829\Desktop\C#\vetor1\obj\Debug\netcoreapp2.2\vetor1.dll
+C:\Users\43190829829\Desktop\C#\vetor1\obj\Debug\netcoreapp2.2\vetor1.pdb
